@@ -24,6 +24,8 @@ function createWindow () {
     win = null
   })
 
+  //win.webContents.openDevTools()
+
   createMenu()
 }
 

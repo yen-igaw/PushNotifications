@@ -89,11 +89,15 @@ Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
 
 - Icon http://emojione.com/
 - Use [node-apn](https://github.com/node-apn/node-apn) under the hood
+- Use [node-gcm](https://www.npmjs.com/package/node-gcm) under the hood
 
 
 ## Author
 
 Khoa Pham, onmyway133@gmail.com
+
+## Contributors
+Yen Bui, yen@igaworks.com
 
 ## License
 
